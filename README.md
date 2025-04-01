@@ -2,12 +2,19 @@
 
 🚀 Tecnologías utilizadas
 HTML 🌐: Lenguaje de marcado para estructurar el contenido de la web.
+
 CSS 🎨: Hoja de estilo para diseñar y mejorar la apariencia de la página.
+
 JavaScript ⚙️: Lenguaje de programación para añadir interactividad y dinamismo.
+
 Bootstrap 📱: Framework de diseño responsivo para una interfaz moderna y adaptable.
+
 Local Storage 💾: Almacenamiento en el navegador para guardar datos del usuario sin necesidad de bases de datos.
+
 👩‍💻 Colaboradoras
+
 📂 Oke Sanuy
+
 ➕➖ Amahia Páez
 🖼️ Lucila Páez Amaya
 🔑 Milagros Suárez
