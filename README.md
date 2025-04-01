@@ -16,9 +16,15 @@ Local Storage 💾: Almacenamiento en el navegador para guardar datos del usuari
 📂 Oke Sanuy
 
 ➕➖ Amahia Páez
+
 🖼️ Lucila Páez Amaya
+
 🔑 Milagros Suárez
+
 🚪 Iara Docampo
+
 📅 Ernestina Chandia
+
 🔗 Enlace a la página
+
 Se parte de TecnoAgenda y descubrí que la tecnología no tiene que ser complicada, inalcanzable o elitista. ¡Es para cualquiera que se anime a aprender! 🙌✨ Se parte de TecnoAgenda aquí
